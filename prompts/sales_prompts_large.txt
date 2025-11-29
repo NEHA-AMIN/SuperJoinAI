@@ -1,0 +1,1 @@
+Process 100,000+ rows and generate monthly revenue summary with MoM growth.

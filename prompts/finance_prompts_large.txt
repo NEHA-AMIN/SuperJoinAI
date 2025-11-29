@@ -1,0 +1,4 @@
+1. Generate full P&L with gross, net profit and margin.
+2. Forecast next 6 months using trend.
+3. Clean large messy dataset.
+4. Create large cohort retention table.
